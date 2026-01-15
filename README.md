@@ -1,2 +1,17 @@
-# TO-DO-LIST-a-web-based-application
-A simple To-Do List web application that helps users manage daily tasks.  Users can add and delete tasks to organize their schedule effectively. Built using HTML, CSS, JavaScript, and LocalStorage
+# To-Do List Web Application
+
+This project is developed as a BCA minor project.
+
+## Features
+- Add daily tasks
+- Delete completed tasks
+- Simple and user-friendly interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- LocalStorage
+
+## Purpose
+This project helps users manage their daily schedule efficiently.
